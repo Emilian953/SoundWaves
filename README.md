@@ -15,8 +15,8 @@ SoundWaves is built around three main functional areas:
 ## 🎼 1. The Audio Player
 
 The **audio player** is the core feature of SoundWaves, supporting two types of content:
- - 🎶 **Songs** 
- - 🎙 **Episodes** 
+ - **Songs** 
+ - **Episodes** 
 
 These are organized into three types of collections: 
 - **Libraries** – A global collection of all songs and podcasts available on the platform. 
